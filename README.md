@@ -1,6 +1,6 @@
 Türkçe:
 
-Merhaba Ben LinuxUsersLinuxMint Gerçek Adım Umut 16 Yaşımdayım Yazılım İle ilgileniyorum ve Linux Mint kullanıyorum.
+Merhaba Ben OpenSoftware-World Gerçek Adım Umut 16 Yaşımdayım Yazılım İle ilgileniyorum ve Linux Mint kullanıyorum.
 
 * Bildiğim Programlama Dilleri Ve Araçları/Kullandığım (Basit / Orta / İleri Düzey)
   * Bildiğim Programlama Araçları
@@ -45,7 +45,7 @@ Merhaba Ben LinuxUsersLinuxMint Gerçek Adım Umut 16 Yaşımdayım Yazılım İ
   
 English:
 
-Hello, I am LinuxUsersLinuxMint. My real name is Umut. I am 16 years old. I am interested in software and I use Linux Mint.
+Hello, I am OpenSoftware-World. My real name is Umut. I am 16 years old. I am interested in software and I use Linux Mint.
 
 * Programming Languages ​​and Tools I Know/Used (Basic / Intermediate / Advanced Level)
   * Programming Tools I Know
