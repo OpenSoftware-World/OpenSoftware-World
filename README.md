@@ -66,9 +66,8 @@ Utilities designed for everyday use.
 
 ## 🌐 Links
 
-- 🌍 Website: https://linuxuserslinuxmint.github.io/
-- 💻 GitHub: https://github.com/LinuxUsersLinuxMint
-
+- 🌍 Website: https://opensoftware-world.github.io/
+- 💻 GitHub: https://github.com/OpenSoftware-World
 ---
 
 ## ⚠️ Disclaimer
