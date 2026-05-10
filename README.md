@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About
 
-Hi, I'm **Umut**, a 16-year-old developer passionate about:
+Hi, I'm **Umut**, a 17-year-old developer passionate about:
 
 - 🧠 Low-level programming
 - ⚙️ Operating system development
