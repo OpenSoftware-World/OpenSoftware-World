@@ -4,11 +4,11 @@
 
 ## Let me introduce myself
 
-My name is Umut. I am passionate about software and truly enjoy the development process. My aim is to build software that—while perhaps not perfect—can be genuinely useful to people. For now, I am working independently.
+My name is Umut. I am passionate about software and truly enjoy the development process. My aim is to build software that while perhaps not perfect can be genuinely useful to people. For now, I am working independently.
 
 ## Why is my GitHub account named "OpenSoftware-World"?
 
-As an independent developer, I enjoy both building software and turning those projects into products. I am also deeply committed to the open-source philosophy and primarily develop open-source software. I wanted a name that reflected this, and I settled on "OpenSoftware-World"—it just sounded pretty cool!
+As an independent developer, I enjoy both building software and turning those projects into products. I am also deeply committed to the open-source philosophy and primarily develop open-source software. I wanted a name that reflected this, and I settled on "OpenSoftware-World" it just sounded pretty cool!
 
 Note: "OpenSoftware-World" is not a company; it is simply a GitHub username and an organization I set up on the platform.
 
@@ -33,7 +33,7 @@ Note: "OpenSoftware-World" is not a company; it is simply a GitHub username and 
 
 ## Tools I use in my software development process and the reasons why:
 
-* Visual Studio Code -> This is where I spend the majority of my development time; it significantly simplifies my workflow—plus, it’s a matter of habit, and I genuinely enjoy its UI/UX.
+* Visual Studio Code -> This is where I spend the majority of my development time; it significantly simplifies my workflow plus, it’s a matter of habit, and I genuinely enjoy its UI/UX.
 * GCC / G++ -> I use these to compile my C/C++ programs.
 * OpenCode -> Although I don’t currently use it for any active projects, I occasionally experiment with it when tinkering on my computer.
 * Ollama -> I use this for the same reason as OpenCode. ## Operating systems I use and why 🖥️
